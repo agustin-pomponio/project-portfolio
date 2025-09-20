@@ -14,8 +14,8 @@ REAL(8), DIMENSION(0:ecuaciones) :: v, error
 
 PRINT*, '============================================================================'
 PRINT*, '           Trabajo Práctico Final - Análisis Numérico - 2019'
-PRINT*, '           Integrantes: Bandiera, Delfina - Malarczuk, Lucila'
-PRINT*, '                        Pomponio, Agustin - Sarraute, Martina'
+PRINT*, '           Integrantes: XXXXX - XXXX'
+PRINT*, '                        Pomponio, Agustin - XXXX'
 PRINT*, '============================================================================'
 PRINT*,
 
